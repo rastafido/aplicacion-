@@ -26,10 +26,7 @@ function calculaGananciaXKilo() {
 
 
 costo.addEventListener('input',calculaGananciaXKilo)
-
 price.addEventListener('input',calculaGananciaXKilo)
-
-
 cant.addEventListener('input', calculaGananciaXKilo)
 
 
